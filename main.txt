@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    hi
     <title>Registration Form</title>
     <style>
       form {
